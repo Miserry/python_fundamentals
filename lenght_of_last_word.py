@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         list_s = s.split()
-        fin_list = [s.strip() for s in list_s] 
+        #fin_list = [s.strip() for s in list_s] 
         lenght = len(list_s[-1])
         return lenght
 

@@ -10,4 +10,13 @@ for key in emails:
     for val in emails[key]:
         print(val + '@' + key)
 
-
+Output:
+annie@ucsd.edu
+joseph@ucsd.edu
+savitha@ucsd.edu
+ben10@gmail.com
+annie@gmail.com
+dio@gmail.com
+joseph@aol.com
+hotmail@aol.com
+coda@aol.com
